@@ -9,7 +9,7 @@ FPS = 60
 WORLD_MAP = [
     list('xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'),
     list('x                                        x'),
-    list('x                                        x'),
+    list('x    p                                   x'),
     list('x                                        x'),
     list('x               xx  xx                   x'),
     list('x               xxxxxx                   x'),
